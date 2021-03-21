@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Image_convertrer"
+rootProject.name = "Image converter"
